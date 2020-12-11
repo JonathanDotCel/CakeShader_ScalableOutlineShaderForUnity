@@ -1,0 +1,39 @@
+
+
+#Unity Folders
+Logs/
+Library/
+Temp/
+builds/
+obj/
+screenshots/
+
+#Logs n stuff n things
+.idea/
+.vs/
+.vscode/
+.editorconfig/
+.DS_Store
+.log
+
+
+#rebuilt anyway
+*.csproj*
+*.sln
+*.user
+*.userprefs
+
+#tempfiles
+*.cs~
+*.blend1
+*.blend1.meta
+
+
+#Convenience
+exclude/
+nosync*
+ExportedObj*
+
+
+
+changelog.txt
